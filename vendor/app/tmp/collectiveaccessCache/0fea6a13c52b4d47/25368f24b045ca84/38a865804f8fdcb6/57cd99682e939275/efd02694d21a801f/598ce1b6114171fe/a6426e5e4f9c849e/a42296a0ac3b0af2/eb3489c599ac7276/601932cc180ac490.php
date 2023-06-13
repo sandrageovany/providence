@@ -1,0 +1,17 @@
+<?php 
+/* Cachekey: cache/stash_default/prov/printtemplatedetails/fe4d1852c63ebe2f8acebdc1dcd84ed2/ */
+/* Type: array */
+/* Expiration: 2023-06-11T04:53:34-04:00 */
+
+
+
+$loaded = true;
+$expiration = 1686473614;
+
+$data = array();
+
+/* Child Type: array */
+$data['return'] = unserialize(base64_decode('YToxOTp7czo0OiJuYW1lIjtzOjEwOiJBdmVyeSA4MTY3IjtzOjQ6InR5cGUiO3M6NToibGFiZWwiO3M6ODoicGFnZVNpemUiO3M6NjoibGV0dGVyIjtzOjE1OiJwYWdlT3JpZW50YXRpb24iO3M6ODoicG9ydHJhaXQiO3M6NjoidGFibGVzIjthOjE6e2k6MDtzOjEwOiJjYV9vYmplY3RzIjt9czoxMDoibWFyZ2luTGVmdCI7czo2OiIwLjI1aW4iO3M6MTE6Im1hcmdpblJpZ2h0IjtzOjc6IjAuMTI1aW4iO3M6OToibWFyZ2luVG9wIjtzOjU6IjAuNWluIjtzOjEyOiJtYXJnaW5Cb3R0b20iO3M6NToiMC41aW4iO3M6MTY6Imhvcml6b250YWxHdXR0ZXIiO3M6ODoiMC4zMTI1aW4iO3M6MTQ6InZlcnRpY2FsR3V0dGVyIjtzOjU6IjAuMGluIjtzOjEwOiJsYWJlbFdpZHRoIjtzOjY6IjEuNzVpbiI7czoxMToibGFiZWxIZWlnaHQiO3M6NToiMC41aW4iO3M6MTE6ImVsZW1lbnRDb2RlIjtOO3M6MTA6InNob3dPbmx5SW4iO047czo4OiJmaWxlbmFtZSI7TjtzOjEwOiJmaWxlRm9ybWF0IjtzOjM6InBkZiI7czo3OiJnZW5lcmljIjtOO3M6NDoicGF0aCI7czo1NzoiL3Zhci93d3cvaHRtbC9jYS9hcHAvcHJpbnRUZW1wbGF0ZXMvbGFiZWxzL2F2ZXJ5XzgxNjcucGhwIjt9'));
+
+/* Child Type: integer */
+$data['createdOn'] = 1686470248;
